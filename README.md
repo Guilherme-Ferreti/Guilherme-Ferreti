@@ -14,6 +14,7 @@ My name is Guilherme Ferreti, PHP/Laravel Mid-Level developer.
 * [CBurguer Restaurant](https://cburguer-1958c.firebaseapp.com/login.html) - Vanilla JavaScript with Firebase implementation.
 * [Amicão Petshop](https://petshopamicao.github.io/index.html) - HTML and CSS layout.
 * [VoiceData Distribuídora E-commerce](https://loja.voicedata.com.br/) - PHP/Slim Framework e-commerce application.
+* [PHP Application Boilerplate](https://github.com/Guilherme-Ferreti/php-slim-boilerplate) - A boilerplate for quickly generation a PHP application with Slim Framework.
 
 ## Cool Facts 😃
 
