@@ -20,7 +20,6 @@ My name is Guilherme Ferreti, PHP/Laravel Mid-Level developer.
 
 - 📚 Fluent English speaker.
 - 🌱 I’m currently learning advanced features about Laravel Framework.
-- ✉ My e-mail: guiferretis@gmail.com
 - 🎵 Love Classic and 80's songs.
 - 🎮 Love Plants Vs Zombies games and simulation genre. 
 - 🧩 I have a huge comic books collection :)
