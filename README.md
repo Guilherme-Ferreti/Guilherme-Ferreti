@@ -26,6 +26,6 @@ My name is Guilherme Ferreti, PHP/Laravel Mid-Level developer.
 
 ## Statistics 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Ferreti&show_icons=true&theme=cobalt&hide=issues)](https://github.com/Guilherme-Ferreti)
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Ferreti&show_icons=true&theme=cobalt&hide=issues)](https://github.com/Guilherme-Ferreti)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ferreti&layout=compact)](https://github.com/Guilherme-Ferreti)
