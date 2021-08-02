@@ -23,3 +23,8 @@ My name is Guilherme Ferreti, PHP/Laravel Mid-Level developer.
 - 🎵 Love Classic and 80's songs.
 - 🎮 Love Plants Vs Zombies games and simulation genre. 
 - 🧩 I have a huge comic books collection :)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Ferreti&show_icons=true&theme=cobalt&hide=issues)](https://github.com/Guilherme-Ferreti)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ferreti&layout=compact)](https://github.com/Guilherme-Ferreti)
