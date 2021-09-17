@@ -10,7 +10,7 @@ My name is Guilherme Ferreti, PHP/Laravel Mid-Level developer.
 
 ## Some of my finest work ✨
 
-* [Sales manager](https://sales-manager-guilherme.herokuapp.com/) - A Laravel powered application.
+* [Sales manager](https://github.com/Guilherme-Ferreti/sales-manager) - A Laravel application for registering sales.
 * [CBurguer Restaurant](https://cburguer-1958c.firebaseapp.com/login.html) - Vanilla JavaScript with Firebase implementation.
 * [Amicão Petshop](https://petshopamicao.github.io/index.html) - HTML and CSS layout.
 * [VoiceData Distribuídora E-commerce](https://loja.voicedata.com.br/) - PHP/Slim Framework e-commerce application.
