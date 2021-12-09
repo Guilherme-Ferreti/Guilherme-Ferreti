@@ -10,7 +10,7 @@ My name is Guilherme Ferreti, PHP/Laravel Mid-Level developer.
 
 ## Some of my finest work ✨
 
-* [Laracasts Voting App](https://laracasts-voting.herokuapp.com/) - Share and vote for ideas.
+* [Laracasts Voting App](https://laracasts-voting.herokuapp.com/) - Share and vote for ideas. (Featured)
 * [Sales manager](https://github.com/Guilherme-Ferreti/sales-manager) - A Laravel application for registering sales.
 * [CBurguer Restaurant](https://cburguer-1958c.firebaseapp.com/login.html) - Vanilla JavaScript with Firebase implementation.
 * [Amicão Petshop](https://petshopamicao.github.io/index.html) - HTML and CSS layout.
