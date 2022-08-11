@@ -15,6 +15,7 @@ My name is Guilherme Ferreti, PHP/Laravel Mid-Level developer.
 
 ## Some of my finest work ✨
 
+* [Aleague](https://aleague.netlify.app/) - Create your own league and simulate match results for your favorite teams.
 * [Laracasts Voting App](https://laracasts-voting.herokuapp.com/) - Share and vote for ideas.
 * [Ferrari Services API](https://github.com/Guilherme-Ferreti/ferrari-api-laravel) - Laravel API with MongoDB for listing and scheduling Ferrari maintenance services.
 * [Sales manager](https://sales-manager-laravel.herokuapp.com) - A Laravel application for registering sales.
