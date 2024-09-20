@@ -11,7 +11,7 @@ My name is Guilherme Ferreti, PHP/Laravel Mid-Level developer.
 
 * Technical Training in Systems Analysis and Development at ETEC Lauro Gomes.
 * Hcode Lab Student (Web Starter, JavaScript Developer, Database Developer).
-* Currently studying Bachelor of Economics at UniCesumar.
+* Graduated Bachelor of Economics at UniCesumar.
 
 ## Some of my finest work ✨
 
