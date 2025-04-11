@@ -13,16 +13,6 @@ My name is Guilherme Ferreti, PHP/Laravel Mid-Level developer.
 * Hcode Lab Student (Web Starter, JavaScript Developer, Database Developer).
 * Graduated Bachelor of Economics at UniCesumar.
 
-## Some of my finest work ✨
-
-* [Aleague](https://aleague.netlify.app/) - Create your own league and simulate match results for your favorite teams.
-* [Laracasts Voting App](https://github.com/Guilherme-Ferreti/laracasts-voting) - Share and vote for ideas.
-* [Ferrari Services API](https://github.com/Guilherme-Ferreti/ferrari-api-laravel) - Laravel API with MongoDB for listing and scheduling Ferrari maintenance services.
-* [CBurguer Restaurant](https://cburguer-1958c.firebaseapp.com/login.html) - Fast-food restaurant built with vanilla JavaScript with Firebase implementation.
-* [Amicão Petshop](https://petshopamicao.github.io/index.html) - HTML and CSS layout for Amicão PetShop store.
-* [VoiceData Distribuídora E-commerce](https://loja.voicedata.com.br/) - PHP/Slim Framework e-commerce application.
-* [PHP Application Boilerplate](https://github.com/Guilherme-Ferreti/php-slim-boilerplate) - A boilerplate for quickly generation a PHP application with Slim Framework.
-
 ## Cool Facts 😃
 
 - 📚 Fluent English speaker.
