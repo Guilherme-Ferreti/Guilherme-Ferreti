@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-My name is Guilherme Ferreti, Full-Stack developer with over 5 years of expertise dedicated to high-quality, scalable web solutions and best development practices with VueJs and Laravel Frameworks.
+My name is Guilherme Ferreti, Full-Stack developer with over 5 years of expertise dedicated to high-quality, scalable web solutions and best development practices with Vue.Js and Laravel Frameworks.
 
 ## Education 🎓
 
